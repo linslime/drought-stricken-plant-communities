@@ -1,0 +1,7 @@
+list[0].append((x[i] - 1)/85 /np.log(y[i]/200))
+        # aa = [random.randint(0,1000000) for i in range(x[i])]
+        # list[1].append(1 - sum([aa[i]/sum(aa) * aa[i]/sum(aa) for i in range(x[i])]))
+        #
+        # list[2].append(-0.23*sum(aa[i]/sum(aa) * np.log(aa[i]/sum(aa)) for i in range(x[i])))
+        #
+        # list[3].append(list[2][i]/np.log(x[i]))
